@@ -1,0 +1,15 @@
+<annotation>
+<filename>0220.jpg</filename>
+<size>
+<width>624</width>
+<height>352</height>
+</size>
+<object>
+<name>person</name>
+<bndbox>
+<xmin>340</xmin>
+<ymin>124</ymin>
+<xmax>407</xmax>
+<ymax>239</ymax>
+</bndbox>
+</object></annotation>
